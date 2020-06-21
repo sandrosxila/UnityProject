@@ -58,7 +58,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\MovementControls.cs" />
+     <Compile Include="Assets\Scripts\Level 1\MovementControls.cs" />
+     <Compile Include="Assets\Scripts\Level 2\MovementControlsSecond.cs" />
      <Compile Include="Assets\Space Shooter Template FREE\Scripts\Bonus.cs" />
      <Compile Include="Assets\Space Shooter Template FREE\Scripts\Boundary.cs" />
      <Compile Include="Assets\Space Shooter Template FREE\Scripts\DirectMoving.cs" />
